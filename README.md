@@ -14,7 +14,7 @@ Nowadays, we always want more and more. Even those things we don't need. I belie
 ## Installation
 
 Use the package manager [npm](https://pip.pypa.io/en/stable/) install foobar.
-[wedonate_server_side](https://github.com/momo1113/wedonate_server)
+[wedonate_client](https://github.com/momo1113/wedonate)
 
 ```bash
 npm install 
